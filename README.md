@@ -1,0 +1,2 @@
+# BarcodeScanner
+BarcodeScanner gradle project
