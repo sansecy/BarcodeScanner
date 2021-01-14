@@ -1,0 +1,3 @@
+include ':android-core'
+include ':android-integration'
+include ':app'
